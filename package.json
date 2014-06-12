@@ -1,0 +1,30 @@
+{
+  "name": "js2tsd",
+  "version": "0.1.0",
+  "description": "helps in the creation of Typescript definition files for existing Javascript libraries",
+  "main": "example.js",
+  "dependencies": {
+    "lodash": "2"
+  },
+  "devDependencies": {
+	  "chroma-js": "0.5.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhelvens/js2tsd"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "library"
+  ],
+  "author": "Michiel Helvensteijn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhelvens/js2tsd/issues"
+  },
+  "homepage": "https://github.com/mhelvens/js2tsd"
+}
